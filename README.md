@@ -1,5 +1,5 @@
-# facial_expression_api
-An API to detect facial expression either by cam or uploading image by using light weight Flask
+# Facial_Expression_API
+An API to detect facial expression's either by cam or by uploading image.
 
 # Steps :
 1. Install the requirements : pip install -r requirements.txt
